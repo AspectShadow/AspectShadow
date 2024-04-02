@@ -1,4 +1,4 @@
-<html><img src="coder.gif" alt=""></html>
+<html><img src="images/coder.gif" alt=""></html>
 
 
 
