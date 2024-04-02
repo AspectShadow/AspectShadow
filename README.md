@@ -1,3 +1,7 @@
+<html><img src="coder.gif" alt=""></html>
+
+
+
 - 👋 Hi, I’m @AspectShadow
 - 👀 I’m interested in Gaming/Programming
 - 🌱 I’m currently learning Programming Languages
